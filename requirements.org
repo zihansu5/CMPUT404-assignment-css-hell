@@ -111,9 +111,24 @@
 
 ** Marking
    - Marks are given only when requirements are met.
-   - 3 for the appropriate skinning the gutenberg stories with new CSS. Including HTML files.
-   - 3 marks for the 2 versions of your page. Including HTML files.
-   - 1 mark for making the CSS for your promotion pages look as close
-     to theoatmeal comic as possible (don't steal his images).
+   - Excellent 7/7: Project Gutenbergs are appropriately skinned.
+     Everything is where it should be. The good page is presentable,
+     the bad/ugly page is clearly bad or ugly. The CSS for your
+     promotion pages look as close to theoatmeal comic as possible
+     (don't steal his images).
+   - Good 6/7: Project Gutenbergs are appropriately skinned.
+     Everything is where it should be. Something is not excellent.
+     Perhaps ugly page and good page look too similar. Perhaps something is
+     broken in Firefox's rendering of your page.
+   - Satisfactory 5/7: Project Gutenbergs are appropriately skinned.
+     Some files aren't named properly and aren't where they should be.
+     Something is not good. Perhaps ugly page and good page look too
+     similar. Perhaps something is broken in Firefox's rendering of
+     your page. Limited effort is apparent.
+   - Unsatisfactory 3/7: There's some effort, all components are
+     there. Screenshots are there but homepage is not right or
+     gutenberg is not right.
+   - Failure 0/7: Any submission with missing components: gutenbergs,
+     screenshots, homepage
 
    Marks will be deducted for lack of screenshots and lack of README or wrong file locations. 
