@@ -1,4 +1,8 @@
 
+body {
+    display: table-cell; 
+    vertical-align: middle;
+}
 h1 {
     font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
@@ -13,6 +17,11 @@ p {
     color: rgb(48, 61, 103);
     margin-left: 1em;
     font-family: Helvetica, sans-serif;
+}
+
+hr {
+    border-color: white;
+    border-width: 1px;
 }
 
 li {
@@ -62,7 +71,7 @@ li {
     height: 20%;
     border-radius: 100%;
     float: left;
-    margin-top:3em;
+    margin-top:1.5em;
     margin-left: 10%;
 }
 
@@ -73,15 +82,4 @@ li {
     background-color: aliceblue;
     height: 100%;
     width: 20%;
-}
-
-.footer {
-    margin-top: 100%;
-    margin-left: 3%;
-    margin-right: 3%;
-    padding: 30px;
-    background-image: url("images/headerImage.jpeg");
-    text-align: center;
-    color: white;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
