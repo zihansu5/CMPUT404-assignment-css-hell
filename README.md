@@ -1,7 +1,9 @@
 Part 1 Written
 =================
 
-Disabled the relative tags indide <style> and added <link rel="stylesheet" href ="part1.css">
+setup:
+1. disabled the relative tags indide <style> 
+2. added <link rel="stylesheet" href ="part1.css">
      
 backgroud:
 1. set background to be yellow-ish
