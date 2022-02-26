@@ -39,8 +39,8 @@ li {
 
 
 #header {
-    margin-left: 3%;
-    margin-right: 3%;
+    margin-left: 2%;
+    margin-right: 2%;
     background-image: url("images/headerImage.jpeg");
     padding: 100px;
     color: white;
@@ -49,8 +49,8 @@ li {
 }
 
 #container{
-    margin-left: 8%;
-    margin-right: 5%;
+    margin-left: 3%;
+    margin-right: 3%;
     
 }
 
