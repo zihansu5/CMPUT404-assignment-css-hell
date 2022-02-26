@@ -48,10 +48,9 @@ div.fig {
     margin-bottom: 7em;
 }
 
-figure {
-    margin: auto;
-    padding: 5px;
-  }
+img {
+    border: 2ch rgb(63, 34, 34) solid;
+}
 
 figcaption {
     padding: 0.5em;
