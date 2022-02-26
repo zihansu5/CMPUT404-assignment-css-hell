@@ -1,0 +1,59 @@
+body {
+    background-color: rgb(238, 221, 192);
+    margin-left: 15%;
+    margin-right: 15%;
+    text-align: justify;
+}
+
+h1, h2 {
+    font-family: Didot, Rockwell;
+    text-align: center;
+}
+
+h1 {
+    font-size: 300%;
+}
+
+h2 {
+    font-size: 150%;
+}
+
+h3, h4, h5, h6 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h3 {
+    font-size: 20px;
+    margin-left: 10%;
+    margin-bottom: 0em;
+}
+
+p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-indent: 2em;
+    margin-top: 0em;
+    font-size: 18px;
+}
+
+p:first-child {
+    text-indent: 0ch;
+}
+div.fig {
+    display:block;
+    margin:0 auto;
+    text-align:center;
+    margin-top: 0.5em;
+    margin-bottom: 7em;
+}
+
+figure {
+    margin: auto;
+    padding: 5px;
+  }
+
+figcaption {
+    padding: 0.5em;
+    caption-side: bottom;
+    background-color: rgb(104, 79, 79);
+    color:white
+}

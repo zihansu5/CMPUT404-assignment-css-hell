@@ -1,0 +1,67 @@
+h1 {
+    font-family: fantasy, cursive;
+    font-style: italic;
+}
+
+h2, h3 {
+    margin-left: 1em;
+    color: rgb(93, 120, 154);
+    font-family: fantasy;
+}
+
+p {
+    color: rgb(48, 61, 103);
+    margin-left: 1em;
+    font-family:'Times New Roman', Times, serif;
+}
+
+li {
+    color: rgb(48, 61, 103);
+    font-weight: bold;
+}
+
+#contact {
+    font-size: 30px;
+    margin-top: 0px;
+    text-align: right;
+    margin-right: 3em; 
+}
+
+body {
+    background-image: url("images/badBackground.jpeg");
+}
+
+#header {
+    background-image: url("images/badHeader.jpeg");
+    padding: 100px;
+    color: rgb(1, 1, 160);
+    font-size: 40px; 
+    margin-top: 0px;
+}
+
+.textContent {
+    font-family:'Times New Roman', Times, serif;
+    font-size: 15px;
+    float:left;
+    width: 70%;
+    background-color:deeppink;
+}
+
+.spanGame {
+    font-style: italic;
+    color: blue;
+}
+
+#profile {
+    width: 300px;
+    height: 500px;
+    float: left;
+    margin-top:3em;
+}
+
+#sidebar {
+    float: right;
+    background-color:palegreen;
+    height: 100%;
+    width: 20%;
+}
