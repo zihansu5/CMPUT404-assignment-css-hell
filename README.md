@@ -21,10 +21,11 @@ paragraph:
 
 image & image captions:
 1. adjusted the margin of the image
-2. centered the image
-3. added background to the image captions
-4. changed the color of text in the captions
-5. changed the padding
+2. added border to the images
+3. centered the image
+4. added background to the image captions
+5. changed the color of text in the captions
+6. changed the padding
 
 
 Assignment: CSS Hell
