@@ -12,10 +12,12 @@ h1, h2 {
 
 h1 {
     font-size: 300%;
+    color:rgb(97, 70, 22);
 }
 
 h2 {
     font-size: 150%;
+    color:rgb(69, 46, 11);
 }
 
 h3, h4, h5, h6 {
