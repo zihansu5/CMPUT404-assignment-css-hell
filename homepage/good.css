@@ -14,8 +14,8 @@ h2, h3 {
 }
 
 p {
+    text-indent: 2em;
     color: rgb(48, 61, 103);
-    margin-left: 1em;
     font-family: Helvetica, sans-serif;
 }
 
