@@ -1,3 +1,30 @@
+Part 1 Written
+=================
+
+Disabled the relative tags indide <style> and added <link rel="stylesheet" href ="part1.css">
+     
+backgroud:
+1. set background to be yellow-ish
+2. reset margin of the body
+
+header tags:
+1. changed the font inside tags h1, h2 to be Didot
+2. changed the font inside tags h3, h4, h5, h6 to be Georgia
+3. changed color of text inside tags h1 and h2 to be brown-ish
+4. changed the font size of tags h1, h2, h3
+
+paragraph:
+1. changed font size in tag p to be 18px
+2. added text indentation to each paragraph (2em)
+
+image & image captions:
+1. adjusted the margin of the image
+2. centered the image
+3. added background to the image captions
+4. changed the color of text in the captions
+5. changed the padding
+
+
 Assignment: CSS Hell
 ====================
 
