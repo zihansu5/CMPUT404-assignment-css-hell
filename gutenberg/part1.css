@@ -44,12 +44,14 @@ div.fig {
     display:block;
     margin:0 auto;
     text-align:center;
-    margin-top: 0.5em;
-    margin-bottom: 7em;
+    margin-top: 3em;
+    margin-bottom: 3em;
 }
 
 img {
     border: 2ch rgb(63, 34, 34) solid;
+    width: 15em;
+    height: 20em;
 }
 
 figcaption {
