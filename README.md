@@ -1,8 +1,9 @@
 Part 1 Written
 =================
 
-setup:
-1. disabled the relative tags indide <style> 
+HTML files:
+1. disabled the relative tags indide <style> (h1, h2, h3, h4, h5, h6, p, div.fig, etc.)
+2. deleted the setup of width in <img>
 2. added <link rel="stylesheet" href ="part1.css">
      
 backgroud:
@@ -23,9 +24,10 @@ image & image captions:
 1. adjusted the margin of the image
 2. added border to the images
 3. centered the image
-4. added background to the image captions
-5. changed the color of text in the captions
-6. changed the padding
+4. resize the image
+5. added background to the image captions
+6. changed the color of text in the captions
+7. changed the padding
 
 
 Assignment: CSS Hell
